@@ -1,5 +1,13 @@
 # Screenshot of work (Node & Express Validation: Week 9 Exercise)
 
+## Main dashboard
+
+![Screenshot of work](./screenshots/main-dashboard.png)
+
+## Add a book
+
+![Screenshot of work](./screenshots/add-book.png)
+
 ## Sign up (successful)
 
 ![Screenshot of work](./screenshots/registration-success.png)
